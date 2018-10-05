@@ -1,0 +1,31 @@
+.square {
+    height: 125px;
+    width: 125px;
+    background-color: dodgerblue;
+    margin: 1px;
+    border: 3px;
+    border-color: black;
+    border-style: solid; 
+    text-align: center;
+    color: dodgerblue;
+    font-size: 50px;
+}
+
+
+.winner {
+    color: red;
+    background-color: white;
+}
+
+.selected {
+    color: dodgerblue;
+    background-color: dodgerblue;
+}
+
+h2 {
+    padding: 25px;
+}
+
+.game {
+    width: 768px;
+}
